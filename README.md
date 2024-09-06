@@ -78,7 +78,12 @@ npm install [설치 라이브러리 명] --global
 npm install [설치 라이브러리 명] --g
 ```
 
-   **전역으로 설치된 라이브러리의 설치 경로**
+   - 전역으로 설치된 라이브러리의 설치 경로
 
 ```
+# window
+%USERPROFILE%\AppData\Roaming\npm\node_modules
+
+# mac
+/usr/local/lib/node_modules
 ```
