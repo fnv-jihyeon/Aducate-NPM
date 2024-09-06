@@ -93,6 +93,7 @@ npm install [설치 라이브러리 명] --g
 ```
 npm install [라이브러리 명]
 ```
+   - 해당 명령어에는 (--save-prod)가 축약된 상태이다
 ```
 npm install [라이브러리 명] --save-dev
 npm install [라이브러리 명] --D
