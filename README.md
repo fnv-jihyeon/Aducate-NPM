@@ -99,5 +99,5 @@ npm install [라이브러리 명] --save-dev
 npm install [라이브러리 명] --D
 ```
    - pacakge.json에서 devDependencies 항목에 추가된다.
-   - dependencies: 애플리케이션 로직에 필요로 하는 라이브러리.
-   - devDependencies: 개발용 Helper 라이브러리 실제 애플리케이션 빌드에 포함되지 않아도 되는 라이브러리.
+   - **dependencies**: 애플리케이션 로직에 필요로 하는 라이브러리.
+   - **devDependencies**: 개발용 Helper 라이브러리 실제 애플리케이션 빌드에 포함되지 않아도 되는 라이브러리.
