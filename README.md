@@ -44,11 +44,11 @@ npm에 대한 학습, Webpack 사전 학습
 ```
 npm init
 ```
-    - package.json을 직접 설정 할 수 있음
+   - package.json을 직접 설정 할 수 있음
 ```
 npm init -y
 ```
-    - package.json 기본값을 설정해서 생성한다.
+   - package.json 기본값을 설정해서 생성한다.
      
 3. 설치 명령어
 4. 제거 명령어
