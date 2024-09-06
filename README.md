@@ -14,3 +14,23 @@ npm에 대한 학습, Webpack 사전 학습
 2. 스크립트로 직접 라이브러리를 CDN으로 설치할 필요가 없다.
   
    : node-module폴더안에 로컬로 설치되고 이것을 package.json을 통해 불러와서 사용한다.
+
+package.json
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "vue": "^3.5.1"
+  }
+}
