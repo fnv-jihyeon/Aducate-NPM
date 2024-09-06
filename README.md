@@ -87,3 +87,5 @@ npm install [설치 라이브러리 명] --g
 # mac
 /usr/local/lib/node_modules
 ```
+
+**5. 지역 설치 옵션**
