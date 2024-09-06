@@ -89,3 +89,11 @@ npm install [설치 라이브러리 명] --g
 ```
 
 **5. 지역 설치 옵션**
+
+```
+npm install [라이브러리 명]
+```
+```
+npm install [라이브러리 명] --save-dev
+npm install [라이브러리 명] --D
+```
