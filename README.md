@@ -3,7 +3,7 @@ npm에 대한 학습, Webpack 사전 학습
 
 
 ## NPM(Node Package Manager) 이란?
- - https://www.npmjs.com/
+ - [공식 페이지](https://www.npmjs.com/)
  - JS 라이브러리 관리 도구
 
 ## 라이브러리 패키지를 사용하는 이유 
