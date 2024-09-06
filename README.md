@@ -44,11 +44,11 @@ npm에 대한 학습, Webpack 사전 학습
 ```
 npm init
 ```
-   - package.json을 직접 설정 할 수 있음
+ - package.json을 직접 설정 할 수 있음
 ```
 npm init -y
 ```
-   - package.json 기본값을 설정해서 생성한다.
+ - package.json 기본값을 설정해서 생성한다.
      
 3. 설치 명령어
 
@@ -57,7 +57,7 @@ npm install [설치 라이브러리 명]
 npm i [설치 라이브러리 명] 
 ```
 
-   -  라이브러리 설치 명령어, node-modules 폴더안에 생성, 설치 라이브러리와 버전은  package.json - dependencies{}에 기록 된다.
+ -  라이브러리 설치 명령어, node-modules 폴더안에 생성, 설치 라이브러리와 버전은  package.json - dependencies{}에 기록 된다.
 
 5. 제거 명령어
 
